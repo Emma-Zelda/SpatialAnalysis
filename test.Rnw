@@ -1,0 +1,8 @@
+\documentclass{article}
+
+\begin{document}
+
+Just for a test
+
+
+\end{document}
